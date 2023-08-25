@@ -5,4 +5,8 @@
 }
 .A a{
     margin: 70px;
+    color: rgba(250, 245, 245, 0.875);
+}
+body{
+    background-color:rgb(18, 10, 165);
 }
